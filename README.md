@@ -25,11 +25,14 @@ Os testes unitários são uma prática essencial no desenvolvimento de software 
 
 ### Estrutura do Projeto
 
-- .
 ├── aritmetica.js         # Implementação das operações aritméticas
-├── aritmetica.test.js    # Testes unitários para as operações aritméticas
-├── package.json          # Configurações e dependências do projeto
-├── .gitignore            # Arquivos e pastas a serem ignorados pelo Git
-└── README.md             # Documentação do projeto
+
+├── aritmetica.test.js    # Testes unitários para as operações aritméticas 
+
+├── package.json          # Configurações e dependências do projeto 
+
+├── .gitignore            # Arquivos e pastas a serem ignorados pelo Git 
+
+└── README.md             # Documentação do projeto 
 
 
